@@ -1,6 +1,5 @@
-Thanks for downloading this theme!
+visit: live demo
 
-Theme Name: Alstar
-Theme URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+https://asadbekkholdarov.github.io/autdev/
+
+https://autdev.netlify.app/
